@@ -1,4 +1,4 @@
-# UnityNavMeshPathDrawer
+# Unity NavMeshPath Drawer
 This simple script allows you to draw any path calculated by the Unity NavMesh (i.e.NavMesh.CalculatePath()).
 
 It gives you control over the resolution of the path and its drawing method: LineRenderer or GameObjects spawned along the path.
